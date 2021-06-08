@@ -1,0 +1,57 @@
+# CV
+```
+
+Vards: Dāniels Jānis
+Uzvards: Zemītis
+Grupa: DP1-4
+
+```
+---
+# Apraks par mani.
+```
+
+Mani sauc Dāniels Jānis Zemītis un man ir 17 gadi. Esmu dzimis Jēkabpilī, bet dzīvoju mazā ciemā Mazozoli, laukos.
+Pirms mācijos “RVT” es mācijos “Mazozolu pamatskolā”.
+```
+# Mani hobiji.
+
+```
+Viens no maniem hobijiem ir boks, kā arī eju uz svaru zāli. 
+```
+![Box bilde](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.tiesraides.lv%2F1200x0s%2Fpictures%2F2019-10-24%2F2019-10-24_brii.jpg&imgrefurl=https%3A%2F%2Fsportacentrs.com%2Fbokss%2Fmairis_briedis%2F09042021-briedis_polijas_tv_ja_cinisos_pret_okolij&tbnid=YwG00cTOaWV7eM&vet=12ahUKEwiO47nh9IfxAhXHvCoKHa4RC9wQMygCegUIARCqAQ..i&docid=9VugVeKWCBC-iM&w=750&h=424&q=Bokss&ved=2ahUKEwiO47nh9IfxAhXHvCoKHa4RC9wQMygCegUIARCqAQ)
+
+```
+
+Otrs mans hobijs ar kuru nodarbojos jau 4 gadus ir futbols.
+
+```
+![Futbola bilde](https://www.google.com/url?sa=i&url=https%3A%2F%2Flv.wikipedia.org%2Fwiki%2FFutbols&psig=AOvVaw1bWFR6ZHU7rKMDjr52KMu2&ust=1623237471460000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjIz_r0h_ECFQAAAAAdAAAAABAD)
+
+---
+## Line of code
+
+```
+print('Skaitlis 3 tiek izmantots ka pirmais skaitlis.')
+print()
+
+SkaitlisPakāpē = 3 
+for x in range(6): 
+   SkaitļaPakape = 3 
+   SkaitlisPakāpē = SkaitlisPakāpē * SkaitļaPakape 
+print('Skaitlis' + str(x+1) + ' =', SkaitlisPakāpē)
+```
+---
+## Manas zinašanas programmešana. 
+
+|Python 3 |C#   |HTML |
+|---------|-----|-----|
+|Viduvejas|Labas|Mazas|
+
+---
+## Daramie darbi.
+
+- [x] Izdarit Sistemu programmesanu.
+- [ ] Izdarit matemātiku.
+- [ ] Nodot abus darbus.
+
+---
